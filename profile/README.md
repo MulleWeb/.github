@@ -7,7 +7,7 @@ this stage. Everythig taken together should enable your to write a [jekyll](http
 
 # MulleScion 
 
-MulleScion is a template engine system like TWIG for Objective-C, that can be seamlessly embedded into HTML. 
+[MulleScion](//github.com/MulleWeb/MulleScion) is a template engine system like [Twig](https://twig.symfony.com/) for Objective-C, that can be seamlessly embedded into HTML. 
 
 ## Install
 

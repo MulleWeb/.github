@@ -11,4 +11,4 @@ this stage. Everything taken together should enable your to write a [jekyll](htt
 
 ## Install
 
-See [web-developer](//github.com/MulleWeb/web-developer) for install instructions.
+See [mulle-web-developer](//github.com/MulleWeb/mulle-web-developer) for install instructions.
